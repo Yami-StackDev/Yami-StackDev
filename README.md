@@ -9,7 +9,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const yami = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "C#", "Python", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev"],
@@ -24,11 +24,11 @@ const anmol = {
             c#: [".Net CORE"]
             Python: ["flask"]
         },
-        databases: ["MSQL","MongoDB", "MySQL"],
+        databases: ["MSSQL","MongoDB", "MySQL"],
         misc: ["Firebase", "Socket.IO", "SignalR", "PHP"]
     },
 };
 ```
 
 ## Find me around the web 🌎:
-<a href="https://twitter.com/BordaDonaire"><img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/></a>
+<a href="https://twitter.com/yami_devsec"><img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/></a>

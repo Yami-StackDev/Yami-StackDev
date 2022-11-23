@@ -1,4 +1,4 @@
-![GitHub Portada](https://user-images.githubusercontent.com/24965783/153799292-1e6e84e8-1a44-4be5-9d3f-2553c81a26e6.png)
+![GitHub Portada](https://user-images.githubusercontent.com/24965783/203472894-e016bb6f-c5cd-44b5-a88d-b6874fa71b3b.png)
 
 <p align="center">
   <a href="https://github.com/yamidevsec"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Systems%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🐱‍💻%20Ethical%20Hacker;🤝%202%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
@@ -36,9 +36,12 @@ const Yami = {
 ```
 
 ## Find me around the web 🌎:
-<a href="https://twitter.com/yamidevsec" target="_blank"><img src="https://img.icons8.com/color/50/000000/twitter--v1.png"/></a>
+<a href="https://www.instagram.com/yamidevsec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="30" height="30" /></a>
+ <a href="https://www.linkedin.com/in/yamidevsec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30" /></a>
+ <a href="https://twitter.com/yamidevsec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" height="30" /></a>
+ <a href="https://www.github.com/yamidevsec" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="30" /></a>
 
 <h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Support Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
 <p align="center">
-<a href="https://www.buymeacoffee.com/yamidevsec"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"/></a>
+<a href="https://www.buymeacoffee.com/yamidevsec"><img src="https://user-images.githubusercontent.com/24965783/203473460-a3ddceeb-0895-49f4-b541-8b5cea405419.png" width="220"/></a>
 </p>
